@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="list_item_margin">2dp</dimen>
+    <dimen name="list_item_padding">12dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="label_margin">12dp</dimen>
+</resources>

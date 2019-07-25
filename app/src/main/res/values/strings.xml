@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">WGU Course Scheduler</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_terms">Terms</string>
+    <string name="title_activity_courses">Courses</string>
+    <string name="terms">Terms</string>
+    <string name="courses">Courses</string>
+    <string name="assessments">Assessments</string>
+    <string name="add_sample_data">Add Sample Data</string>
+    <string name="title">Title</string>
+    <string name="title_activity_term">Term Detail</string>
+    <string name="start_date">Start Date</string>
+    <string name="start_date_label">Start Date</string>
+    <string name="end_date_label">End Date</string>
+    <string name="end_date">End Date</string>
+    <string name="save">Save</string>
+    <string name="title_activity_course">Course Detail</string>
+    <string name="mentors">Mentors</string>
+    <string name="title_activity_assessment">Assessment Detail</string>
+    <string name="title_activity_assessments">Assessments</string>
+    <string name="title_activity_mentors">Mentors</string>
+    <string name="title_activity_mentor">Mentor Detail</string>
+    <string name="due_date_label">Due Date</string>
+    <string name="goal_date_label">Goal Date</string>
+    <string name="due_date">Due Date</string>
+    <string name="goal_date">Goal Date</string>
+    <string name="course">Course</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone Number</string>
+    <string name="email">E-Mail Address</string>
+    <string name="action_add">Add</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="courses_note">*Courses in blue have been assigned to a different term but may still be selected. Assigning them to this term will also remove them from the term to which they are already assigned.</string>
+    <string name="assessments_note">*Assessments and mentors in blue have been assigned to a different course but may still be selected. Assigning them to this course will also remove them from the course to which they are already assigned.</string>
+    <string name="type">Type</string>
+    <string name="objective">Objective</string>
+    <string name="performance">Performance</string>
+    <string name="alert">Alert</string>
+    <string name="status">Status</string>
+    <string name="notes">Notes</string>
+    <string name="share">Share</string>
+    <string name="notes_hint">This is a note.</string>
+    <string name="term">Term</string>
+    <string name="generate">Generate Sample Data</string>
+    <string-array name="course_statuses">
+        <item>In Progress</item>
+        <item>Completed</item>
+        <item>Plan to Take</item>
+        <item>Dropped</item>
+    </string-array>
+</resources>
